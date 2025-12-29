@@ -1,0 +1,30 @@
+.a {
+    color: pink;
+    font-weight: bold;
+}
+
+body {
+    background-color: red;
+}
+
+.c{
+    background: red;
+}
+
+.button {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    background-color: green;
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+
+.button:hover {
+    background-color: gold;
+}
+
+td {
+    padding: 8px;
+}
